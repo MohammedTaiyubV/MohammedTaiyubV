@@ -6,8 +6,9 @@
 ---
 
 ### 👀 Profile Views
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MohammedTaiyubV&label=Profile%20Views&style=flat-square" />
 </p>
 
 ---
@@ -16,18 +17,18 @@
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240" />
 
-🎓 BE Graduate in Information Science  
-💼 Currently working as **SRE Trainee at Teamware Solutions**  
+🎓 BE Graduate in Information Science
+💼 Currently working as **SRE Trainee at Teamware Solutions**
 
 I am passionate about **Site Reliability Engineering, DevOps, and Cloud Technologies**.
 
-- 🔧 Hands-on with Linux, Shell Scripting & Automation  
-- ☁️ Learning and working with AWS & Cloud fundamentals  
-- 🐳 Containerization using Docker & Kubernetes  
-- 📊 Monitoring using Prometheus & Grafana  
-- 🔄 CI/CD concepts using Git & Maven  
-- 🧠 Strong foundation in Core Java & SQL  
-- ⚙️ Understanding ITIL & reliability practices  
+* 🔧 Hands-on with Linux, Shell Scripting & Automation
+* ☁️ Working with AWS & Cloud fundamentals
+* 🐳 Containerization using Docker & Kubernetes
+* 📊 Monitoring using Prometheus & Grafana
+* 🔄 CI/CD concepts using Git & Maven
+* 🧠 Strong foundation in Core Java & SQL
+* ⚙️ Understanding ITIL & reliability practices
 
 💡 I enjoy solving real-world infrastructure problems and building **scalable, reliable systems**.
 
@@ -53,20 +54,20 @@ I am passionate about **Site Reliability Engineering, DevOps, and Cloud Technolo
 
 ## ⚙️ What I’m Learning & Working On
 
-- 🔍 System Monitoring & Observability  
-- 🐧 Linux Administration & Troubleshooting  
-- 📜 Shell Scripting for Automation  
-- ☁️ Cloud Infrastructure Basics  
-- 🔄 DevOps Practices & CI/CD Pipelines  
-- 🚀 Reliability Engineering Concepts  
+* 🔍 System Monitoring & Observability
+* 🐧 Linux Administration & Troubleshooting
+* 📜 Shell Scripting for Automation
+* ☁️ Cloud Infrastructure Basics
+* 🔄 DevOps Practices & CI/CD Pipelines
+* 🚀 Reliability Engineering Concepts
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedTaiyubV&show_icons=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedTaiyubV" width="48%" />
 </p>
 
 ---
@@ -74,7 +75,7 @@ I am passionate about **Site Reliability Engineering, DevOps, and Cloud Technolo
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&area=true&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedTaiyubV&area=true&hide_border=true" width="90%" />
 </p>
 
 ---
@@ -82,10 +83,10 @@ I am passionate about **Site Reliability Engineering, DevOps, and Cloud Technolo
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/kabsha-taiyub-2aa726288">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
