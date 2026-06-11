@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Hello%20there!%20👋&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
 <h1 align="center">I'm <b>Mohammed Taiyub</b></h1>
-<h3 align="center">SRE Trainee | DevOps Enthusiast | Cloud & Automation Learner 🚀</h3>
+<h3 align="center">SRE | DevOps Enthusiast | Cloud & Automation Learner 🚀</h3>
 
 ---
 
@@ -18,7 +18,7 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240" />
 
 🎓 BE Graduate in Information Science
-💼 Currently working as **SRE Trainee at Teamware Solutions**
+💼 Currently working as **SRE & Cloud Infra @ Ninestars Info Tech**
 
 I am passionate about **Site Reliability Engineering, DevOps, and Cloud Technologies**.
 
